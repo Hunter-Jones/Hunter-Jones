@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Hunter-Jones
-- 👀 I’m interested in video games and shows like Pokemon and Persona along with skateboarding, hanging out with friends, and most importantly new technology and computer science
-- 📘 I'm currently a Sophomore at Kent State University with a major in computer science and a minor in Japanese and I will be a resident assistant in Fall 2021
-- 🌱 In Fall 2021 I'm taking Computer Network Communications
-- 📫 You can reach me by email at hunterj0915@gmail.com
+- 👋 Hi, I’m @Hunter-Jones (He/Him)
+- 🎮 I’m interested in video games and shows like Pokemon and Persona along with skateboarding, hanging out with friends, and most importantly emerging technology and computer science
+- 🏫 I'm currently a Sophomore at Kent State University with a major in computer science and a minor in Japanese and am a resident assistant (RA) at Kent State
+- 💼 Have interned at tech startup New Territory as well as in the IT department of engineering company Thomarious
+- 📚 I have taken CS I/II, Discrete Structures and Communication Networks and am currently taking CS III, Databases, and Algorithms
+- 📧 You can reach me by email at hunterj0915@gmail.com
 <!--    - 💞️ I’m looking to collaborate on ... --->
 
 <!---
