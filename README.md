@@ -7,9 +7,9 @@
 -📚 My coursework includes Computer Science I/II/III, Calculus I/II, Linear Algebra, Decision Making Under Uncertainty, Discrete Math, Communication Networks, Database Design, Algorithms, Structure of Programming 
 Languages, Big Data Analytics, and Human Interface Computing.
 
--📊 Fluent in Python, R, C++, SQL, and HTML/CSS/JS
+-📊 C++, Python, R, SQL, SAS, HTML/CSS/JavaScript
 
--🏠 I also serve as a 3rd-year Resident Assistant (RA) at Kent State, where I foster a vibrant dorm life, organize events, and handle any conflicts within the dorm halls.
+-🏠 I also serve as a 4th-year Resident Assistant (RA) at Kent State, where I foster a vibrant dorm life, organize events, and handle any conflicts within the dorm halls.
 
 -💼 I have valuable experience as a junior software developer at Comsat Architects, and I have completed multiple technology-related internships.
 
